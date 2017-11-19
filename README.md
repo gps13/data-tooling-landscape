@@ -24,6 +24,8 @@ Imported from [a gist](https://gist.github.com/mrtns/c2c851cfb9d3e950b0ad847511c
   * Google Cloud
 * [FloydHub](https://www.floydhub.com/)
 * [Stitch](https://www.stitchdata.com)
+* [Blendo] (https://www.blendo.co/)
+  "1-click data integration with your data warehouse."
 * [Panoply](https://panoply.io/)
 * [Yhat ScienceOps](https://www.yhat.com/products/scienceops)
 * [Yhat Bandit](https://www.yhat.com/products/bandit)
